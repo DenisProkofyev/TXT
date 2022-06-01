@@ -1,0 +1,7 @@
+Personal
+Full_name: first name: Денис
+second_name: Прокофьев
+patronymic: Петрович
+Age: 32
+Pets_quantity: 0
+Desirable_salary: $1500
