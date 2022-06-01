@@ -1,0 +1,6 @@
+Preferences
+Favourite_movie: Scent of a woman
+Favourite_series: Breaking bad
+Favourite_food: Russian cuisine
+Favourite_season: Winter
+Preferable_counrty_to_visit: The USA

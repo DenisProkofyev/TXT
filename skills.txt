@@ -1,0 +1,26 @@
+Skills_to_learn:
+Basic theory, SDLC, STLC
+Client-server architecture
+HTTP-requests methods
+HTTP responses codes
+HTTP requests and responses structure
+JSON and XML structures
+API testing with Postman
+Reading of logs from external server
+Web-traffic sniffing with Charles and Fiddler
+DevTools
+VPN
+Mobile testing
+iOS, Android, guidelines
+iOS apllication assembly with XCode
+Android application assembly with Android Studio
+ADB
+Proxy and VPN adjustment on iOS and Android
+Terminal (Linux)
+Bash scripts and automatization
+Remote servers access
+SQL basics
+PostgreSQL
+Redis
+Stress testing in Jmeter
+Scrum methodology
